@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><strong>Marc Golinghorst</strong> is a Virtual Build Design Engineer working for AGCO Corporation in Jackson MN. He builds 3D virtual models of the Design Engineers products.
+Along with Building the models, he 3D prints conceptual parts on 2 Stratasys 3D FDM printers, and designs and prints tooling and office needed items.</p>
+
+<p>Marc's Education has been in Graphic Design, some Electrical Engineering courses, Music, and a degree in Mechatronics.  He is currently enrolled at ASU in the Graphic Information Technology program with an undecided emphasis, but wants to advance his career in the virtual and 3D world.</p>
+
+<p>His personal interests are in Art, Music, music festivals (currently mostly Irish), and riding his <b>Harley!</b>
+
+<p>Marc is in his first coding class at this time since 1984 when he learned basic machine language on an Apple IIE.  A lot has changed since then!</p>
